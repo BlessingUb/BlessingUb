@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋, I'm Blessing</h1>
 
-- 🌱 I’m currently working on a project using  **MERN** MongoDB, Express, React, Node soon be made public!
+- 🌱 I’m currently working on a solo project using  **MERN** MongoDB, Express, React, Node soon be made public!
 
 - 👨‍💻 Recent Makers Graduate: During my time in Makers Academy I have learnt and worked using Ruby, Sinatra, Ruby on Rails, Javascript, Test Driven Development (RSpec, Capybara, Jasmine, Jest and Cypress), HTML, CSS, Databases using Postgresql, Sql, Git, Deployment on Heroku.
 
