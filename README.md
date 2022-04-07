@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋, I'm Blessing</h1>
 
-- 🌱 I’m currently working on a solo project using  [**Rails** with a **React** frontend!](https://github.com/BlessingUb/GoalTrackerApp)
+- 🌱 I’m currently working on a solo project using  [**Rails API ** with a **React** frontend!](https://github.com/BlessingUb/GoalTrackerApp)
 
 - 👨‍💻 Recent Makers Graduate: During my time in Makers Academy I have learnt and worked using Ruby, Sinatra, Ruby on Rails, Javascript, Test Driven Development (RSpec, Capybara, Jasmine, Jest and Cypress), HTML, CSS, Databases using Postgresql, Sql, Git, Deployment on Heroku.
 
