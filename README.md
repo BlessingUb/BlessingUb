@@ -1,8 +1,8 @@
 <h1 align="center">Hi there👋, I'm Blessing</h1>
 
-- 🌱 I’m currently working on a solo project using  [*Rails API* with a **React** frontend!](https://github.com/BlessingUb/GoalTrackerApp)
+- 🌱 I completed the [Makers Software Engineering Bootcamp](https://makers.tech/about-us/) in October 2021, and now working as a Software Engineer with [Deloitte Digital](https://www.deloittedigital.com/us/en/about/locations/united-kingdom.html). 
 
-- 👨‍💻 Recent Makers Graduate: During my time in Makers Academy I have learnt and worked using Ruby, Sinatra, Ruby on Rails, Javascript, Test Driven Development (RSpec, Capybara, Jasmine, Jest and Cypress), HTML, CSS, Databases using Postgresql, Sql, Git, Deployment on Heroku.
+- 👨‍💻 I work using Java, Scala, Python,Spring,Bash, AWS cloud services, Docker, Kubernette Selenium, Databases using Postgresql, Sql, Git 
 
 - 📄 [You can checkout my CV](https://github.com/BlessingUb/CV)
 
