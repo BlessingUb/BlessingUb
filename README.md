@@ -2,7 +2,7 @@
 
 - 🌱 I completed the [Makers Software Engineering Bootcamp](https://makers.tech/about-us/) in October 2021, and have being working as a Software Engineer with [Deloitte Digital](https://www.deloittedigital.com/us/en/about/locations/united-kingdom.html). 
 
-- 👨‍💻 I work using Java, Scala, Python,Spring,Bash, AWS cloud services, Docker, Kubernette Selenium, Databases using Postgresql, Sql, Git 
+- 👨‍💻 I work using Java, Scala, Groovy,Spring,Bash, AWS cloud services, Docker, Kubernette, Selenium, Databases using Postgresql, Sql, Git 
 
 - 📄 [You can checkout my CV](https://github.com/BlessingUb/CV)
 
