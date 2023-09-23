@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋, I'm Blessing</h1>
 
-- 🌱 I completed the [Makers Software Engineering Bootcamp](https://makers.tech/about-us/) in October 2021, and have being working as a Software Engineer with [Deloitte Digital](https://www.deloittedigital.com/us/en/about/locations/united-kingdom.html). 
+- 🌱 I completed the [Makers Software Engineering Bootcamp](https://makers.tech/about-us/) in October 2021, and have being working as a Software Engineer with [Deloitte Digital](https://www.deloittedigital.com/us/en/about/locations/united-kingdom.html) where i write and test code commercially, I manage where i write and test code commercially, I manage platform issues ranging from broken services, pipelines to malfunctioning environments by leveraging Kubernetes CLI and AWS Console for investigation and troubleshooting.
 
 - 👨‍💻 I work using Java, Scala, Groovy,Spring,Bash, AWS cloud services, Docker, Kubernette, Selenium, Databases using Postgresql, Sql, Git 
 
