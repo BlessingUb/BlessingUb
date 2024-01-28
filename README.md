@@ -1,8 +1,8 @@
 <h1 align="center">Hi there👋, I'm Blessing</h1>
 
-- 🌱 I completed the [Makers Software Engineering Bootcamp Program](https://makers.tech/about-us/), and have being working as a Software Engineer where i write and test code commercially, I manage platform issues ranging from broken services, pipelines to malfunctioning environments by leveraging Kubernetes CLI and AWS Console for investigation and troubleshooting.
+- 🌱 I completed the [Makers Software Engineering Bootcamp Program](https://makers.tech/about-us/), and have been working as a Software Engineer where i write and test code commercially, my roles have cut across platform Devops and Backend engineering. I write clean code to build large scale API services, managing microservices. I have managed platform issues ranging from broken services, pipelines to malfunctioning environments by leveraging Kubernetes CLI and AWS Console for investigation and troubleshooting.
 
-- 👨‍💻 I work using Java, Scala, Groovy,Spring,Bash, AWS cloud services, Docker, Kubernette, Selenium, Databases using Postgresql, Sql, Git 
+- 👨‍💻 I work using Java, Scala, Groovy,Spring,Bash, AWS cloud services, Docker, Kubernette, Selenium, Git Spring Boot, Mockito, Maven, JUnit, TDD, Java17, Bash, Docker Containerisation, Continuous Integration and Continuous Delivery (CI/CD) pipelines, YAML, Jenkins, JSON, Kibana, OOP, RDS, PostgreSQL, Postman, Swagger, Cloud Infrastructure AWS Services, Git, Bitbucket, Jira, Confluence 
 
 - 📄 [You can checkout my CV](https://github.com/BlessingUb/CV)
 
